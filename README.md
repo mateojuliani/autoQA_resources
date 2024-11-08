@@ -2,8 +2,11 @@
 List of resources related to automated Data Quality Assurance
 
 ## Books
-* (Data)[https://books.google.com/books/about/Automating_Data_Quality_Monitoring.html?id=hAjtEAAAQBAJ&source=kp_book_description]
+* [Automating Data Quality Monitoring: Scaling Beyond Rules with Machine Learning](https://books.google.com/books/about/Automating_Data_Quality_Monitoring.html?id=hAjtEAAAQBAJ&source=kp_book_description)
 
 ## Papers 
+
+* [Coccon Data Transformation](https://dl.acm.org/doi/pdf/10.1145/3665939.3665957)
+  * [Github](https://github.com/Cocoon-Data-Transformation/cocoon)
 
 ## Other
