@@ -8,7 +8,8 @@ List of resources related to automated Data Quality Assurance
 
 * [Coccon Data Transformation](https://dl.acm.org/doi/pdf/10.1145/3665939.3665957)
   * [Github](https://github.com/Cocoon-Data-Transformation/cocoon)
- 
+* [Jellyfish](https://export.arxiv.org/pdf/2312.01678v6.pdf)
+
 * [Toto](https://www.datadoghq.com/blog/datadog-time-series-foundation-model/)
   * LLMs for time series forecasting 
 
